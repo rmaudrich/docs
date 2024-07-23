@@ -31,14 +31,7 @@
       "url": "api-reference"
     }
   ],
-	"anchors": [
-    {
-      "name": "Mustang API Reference",
-      "openapi": "/swagger.json",
-      "url": "mustang-api-reference",
-      "icon": "square-terminal"
-    },
-  
+  "anchors": [
     {
       "name": "Documentation",
       "icon": "book-open-cover",
@@ -94,5 +87,6 @@
     "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
+  },
+  "openapi": "swagger.json"
 }
