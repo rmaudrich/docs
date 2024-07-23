@@ -49,6 +49,13 @@
     }
   ],
   "navigation": [
+  {
+        "group": "Mustang API Reference",
+        "pages": [
+            "mustang-controller/visualisation-from-xml-to-html",
+			"mustang-controller/invoice-class-to-xml-input-must-be-json"
+        ]
+    },
     {
       "group": "Get Started",
       "pages": [
