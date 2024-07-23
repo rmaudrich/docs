@@ -34,7 +34,7 @@
 	"anchors": [
     {
       "name": "Mustang API Reference",
-      "openapi": "swagger.json",
+      "openapi": "/swagger.json",
       "url": "mustang-api-reference",
       "icon": "square-terminal"
     },
